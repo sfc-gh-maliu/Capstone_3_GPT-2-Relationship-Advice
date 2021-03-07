@@ -34,8 +34,12 @@ Objectives:
 
 Reports
 
-    [Jupyter notebook for data scraping, data cleaning, & Exploratory Data Analysis](https://github.com/rjmalka/Capstone_3_GPT-2-Relationship-Advice/blob/main/notebook/Relationship%20Advice_Capstone%20Three.ipynb)
-    [Google Colab notebook to train & generate text from GPT-2](https://github.com/rjmalka/Capstone_3_GPT-2-Relationship-Advice/blob/main/notebook/GPT_2's_Relationship_Advice.ipynb)
-    [Capstone Project III Final Report](https://github.com/rjmalka/Capstone_3_GPT-2-Relationship-Advice/blob/main/report/GPT-2%20Relationship%20Advice%20Report.pdf)
-    [Capstone Project III Final Presentation](https://github.com/rjmalka/Capstone_3_GPT-2-Relationship-Advice/blob/main/report/GPT-2_Capstone_Final_Slides.pdf)
-    [Sample text generated from GPT-2](https://github.com/rjmalka/Capstone_3_GPT-2-Relationship-Advice/tree/main/text%20from%20gpt-2)
+[Jupyter notebook for data scraping, data cleaning, & Exploratory Data Analysis](https://github.com/rjmalka/Capstone_3_GPT-2-Relationship-Advice/blob/main/notebook/Relationship%20Advice_Capstone%20Three.ipynb)
+
+[Google Colab notebook to train & generate text from GPT-2](https://github.com/rjmalka/Capstone_3_GPT-2-Relationship-Advice/blob/main/notebook/GPT_2's_Relationship_Advice.ipynb)
+
+[Capstone Project III Final Report](https://github.com/rjmalka/Capstone_3_GPT-2-Relationship-Advice/blob/main/report/GPT-2%20Relationship%20Advice%20Report.pdf)
+
+[Capstone Project III Final Presentation](https://github.com/rjmalka/Capstone_3_GPT-2-Relationship-Advice/blob/main/report/GPT-2_Capstone_Final_Slides.pdf)
+
+[Sample text generated from GPT-2](https://github.com/rjmalka/Capstone_3_GPT-2-Relationship-Advice/tree/main/text%20from%20gpt-2)
