@@ -38,4 +38,3 @@ def get_new_prompt(messages):
 	prompt = ""
 	for message in messages:
 		prompt += ""
-        '''
