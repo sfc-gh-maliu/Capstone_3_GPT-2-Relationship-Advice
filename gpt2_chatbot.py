@@ -2,7 +2,7 @@ import streamlit as st
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
 
 # Load pre-trained model and tokenizer
-model_name = "C:\\Users\\Robert Malka\\Desktop\\model file\\pytorch_version"
+model_name = "pytorch_version"
 tokenizer = GPT2Tokenizer.from_pretrained(model_name)
 model = GPT2LMHeadModel.from_pretrained(model_name)
 
