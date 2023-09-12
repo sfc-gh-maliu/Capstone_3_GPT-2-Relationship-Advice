@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+C:\Users\Robert Malka\Desktop\model file\pytorch_version
+C:\Users\Robert Malka\Desktop\model file\checkpoint\run1\model-3500.data-00000-of-00001
